@@ -1,0 +1,6 @@
+/*
+encodeURIComponent('1 bada rawla pipli')
+o/p::   '1%20bada%20rwla%20piplii'
+decodeURIComponent('1%20bada%20rwla%20pipli')
+o/p  : '1 bada rwla piplii'
+*/
